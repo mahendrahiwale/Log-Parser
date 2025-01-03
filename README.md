@@ -1,4 +1,4 @@
-# Log Parser and Highlighter
+# Log Parser
 
 This script is a command-line tool for parsing various types of log files. It supports filtering, highlighting, and extracting useful information from Apache, Nginx, and system logs.
 
