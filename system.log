@@ -1,0 +1,100 @@
+Jan  1 00:52:06 server9 CRON: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:16:51 server10 sshd: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:54:10 server7 systemd: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:35:00 server2 systemd: Started session 1 of user root.
+Jan  1 00:25:56 server4 CRON: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:05:54 server4 kernel: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:56:12 server3 systemd: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:39:58 server7 CRON: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:07:13 server4 sudo: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:43:34 server8 sudo: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:12:10 server2 sshd: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:07:08 server4 systemd: Started session 1 of user root.
+Jan  1 00:41:12 server8 systemd: Started session 1 of user root.
+Jan  1 00:27:38 server8 sudo: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:09:00 server1 kernel: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:44:00 server3 CRON: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:26:36 server4 kernel: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:16:36 server9 CRON: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:48:14 server4 CRON: Started session 1 of user root.
+Jan  1 00:03:18 server3 systemd: Started session 1 of user root.
+Jan  1 00:20:58 server9 kernel: Started session 1 of user root.
+Jan  1 00:57:57 server6 sshd: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:40:19 server9 sshd: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:11:04 server3 kernel: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:48:21 server8 kernel: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:46:51 server2 CRON: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:30:19 server1 kernel: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:36:35 server2 sudo: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:36:25 server7 systemd: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:53:52 server6 sudo: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:22:57 server10 sudo: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:32:53 server2 sudo: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:16:49 server10 systemd: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:39:28 server1 sudo: Started session 1 of user root.
+Jan  1 00:05:55 server7 sshd: Started session 1 of user root.
+Jan  1 00:39:18 server6 kernel: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:41:37 server10 kernel: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:58:39 server3 sshd: Started session 1 of user root.
+Jan  1 00:47:36 server7 systemd: Started session 1 of user root.
+Jan  1 00:45:32 server4 kernel: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:05:57 server5 kernel: Started session 1 of user root.
+Jan  1 00:53:11 server1 systemd: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:13:39 server3 kernel: Started session 1 of user root.
+Jan  1 00:24:09 server10 sshd: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:20:21 server1 sudo: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:39:08 server5 sshd: Started session 1 of user root.
+Jan  1 00:10:21 server7 sudo: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:50:59 server4 systemd: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:57:29 server4 kernel: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:55:55 server4 systemd: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:12:36 server9 sudo: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:40:37 server1 CRON: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:20:12 server1 systemd: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:52:17 server7 CRON: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:03:42 server10 sshd: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:00:53 server7 CRON: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:08:40 server10 sudo: Started session 1 of user root.
+Jan  1 00:52:22 server3 sudo: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:09:26 server2 sudo: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:02:39 server10 sshd: Started session 1 of user root.
+Jan  1 00:23:39 server9 kernel: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:53:30 server5 systemd: Started session 1 of user root.
+Jan  1 00:21:09 server2 systemd: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:11:05 server9 CRON: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:03:36 server1 sshd: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:03:23 server7 kernel: Started session 1 of user root.
+Jan  1 00:19:36 server4 CRON: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:58:20 server8 CRON: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:23:29 server2 CRON: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:49:54 server10 CRON: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:49:53 server4 systemd: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:33:20 server1 CRON: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:42:54 server9 kernel: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:04:42 server4 sshd: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:04:08 server7 sudo: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:02:45 server5 systemd: Started session 1 of user root.
+Jan  1 00:51:42 server2 sshd: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:16:40 server3 kernel: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:44:03 server3 CRON: Started session 1 of user root.
+Jan  1 00:10:21 server4 sudo: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:16:24 server6 systemd: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:34:04 server3 sshd: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:54:37 server3 sudo: Started session 1 of user root.
+Jan  1 00:14:32 server5 sshd: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:19:23 server7 sudo: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:46:31 server2 kernel: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:19:40 server7 kernel: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:46:39 server2 kernel: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:55:06 server2 sshd: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:39:28 server10 CRON: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:26:43 server9 kernel: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:56:59 server5 kernel: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:50:10 server3 systemd: user3 : TTY=pts/1 ; PWD=/home/user3 ; USER=root ; COMMAND=/bin/ls
+Jan  1 00:22:23 server7 kernel: (user2) CMD (/usr/bin/some_task)
+Jan  1 00:32:20 server3 sudo: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:47:26 server1 CRON: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:03:36 server7 sshd: [   1.234567] CPU: 4 PID: 1 Comm: init
+Jan  1 00:41:29 server9 systemd: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:14:50 server3 systemd: Accepted publickey for user1 from 192.168.1.100 port 22 ssh2
+Jan  1 00:06:30 server7 systemd: [   1.234567] CPU: 4 PID: 1 Comm: init
